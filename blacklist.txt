@@ -1,0 +1,3 @@
+xyapp-1.0-debug.apk
+blacklist.txt
+.p4a
